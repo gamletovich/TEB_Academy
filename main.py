@@ -43,52 +43,52 @@ def task1_b():
         try:
             assert "575 zł" in price_list[0], "Error in I year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[0])
 
         try:
             assert "(12 x 575 zł)" in price_list[0], "Error in I year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[0])
 
         # II YEAR
         try:
             assert "575 zł" in price_list[1], "Error in II year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[1])
 
         try:
             assert "(12 x 575 zł)" in price_list[1], "Error in II year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[1])
 
         # III YEAR
         try:
             assert "575 zł" in price_list[2], "Error in III year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[2])
 
         try:
             assert "(12 x 575 zł)" in price_list[2], "Error in III year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[2])
 
         # IV YEAR
         try:
             assert "675 zł " in price_list[3], "Error in IV year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[3])
 
         try:
             assert "(5 x 675 zł)" in price_list[3], "Error in IV year: should be '575 zł (12 x 575 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[3])
 
 
@@ -121,39 +121,39 @@ def task1_c():
         try:
             assert ("300 zł" or "380 zł") in price_list[0], "Error in I year: should be '300 zł 380 zł (12 x 330 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[0])
 
         try:
             assert "(12 x 330 zł)" in price_list[0], "Error in I year: should be '300 zł 380 zł (12 x 330 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[0])
 
         # II YEAR
         try:
             assert "475 zł" in price_list[1], "Error in II year: should be '475 zł (12 x 475 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[1])
 
         try:
             assert "(12 x 475 zł)" in price_list[1], "Error in II year: should be '475 zł (12 x 475 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[1])
 
         # III YEAR
         try:
             assert "675 zł" in price_list[2], "Error in III year: should be '675 zł (10 x 675 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[2])
 
         try:
             assert "(10 x 675 zł)" in price_list[2], "Error in III year: should be '675 zł (10 x 675 zł)'"
         except AssertionError as asrt:
-            print("Bug was faund")
+            print("Bug was found")
             print("Log:", asrt, " | INSTEAD | ", price_list[2])
 
     except Exception as e:

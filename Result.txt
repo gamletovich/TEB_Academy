@@ -2,26 +2,26 @@ ____________________task1_a START ____________________
 Prezes Zarządu: Paweł Zygarłowski
 ____________________task1_a END ____________________
 ____________________task1_b START ____________________
-Bug was faund
+Bug was found
 Log: Error in I year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   540 zł 590 zł (12 x 540 zł)
-Bug was faund
+Bug was found
 Log: Error in I year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   540 zł 590 zł (12 x 540 zł)
-Bug was faund
+Bug was found
 Log: Error in II year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   590 zł (12 x 590 zł)
-Bug was faund
+Bug was found
 Log: Error in II year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   590 zł (12 x 590 zł)
-Bug was faund
+Bug was found
 Log: Error in III year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   590 zł (12 x 590 zł)
-Bug was faund
+Bug was found
 Log: Error in III year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   590 zł (12 x 590 zł)
-Bug was faund
+Bug was found
 Log: Error in IV year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   695 zł (5 x 695 zł)
-Bug was faund
+Bug was found
 Log: Error in IV year: should be '575 zł (12 x 575 zł)'  | INSTEAD |   695 zł (5 x 695 zł)
 ____________________task1_b END ____________________
 ____________________task1_c START ____________________
-Bug was faund
+Bug was found
 Log: Error in I year: should be '300 zł 380 zł (12 x 330 zł)'  | INSTEAD |   380 zł (12 x 380 zł)
-Bug was faund
+Bug was found
 Log: Error in I year: should be '300 zł 380 zł (12 x 330 zł)'  | INSTEAD |   380 zł (12 x 380 zł)
 ____________________task1_c END ____________________
